@@ -115,7 +115,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'voldikss/vim-floaterm'
     
 " Multiple Cursors
-    Plug 'terryma/vim-multiple-cursors'
+    " Plug 'terryma/vim-multiple-cursors'
 
 " Zen mode
     Plug 'junegunn/goyo.vim'
